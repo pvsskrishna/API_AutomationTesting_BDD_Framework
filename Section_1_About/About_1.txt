@@ -1,0 +1,28 @@
+PYTHON SDET  - BACKEND AUTOMATION TESTING ( API + SQL + SSH + Scrapping ) with BDD FRAMEWORK for API
+----------------------------------------------------------------------------------------
+Goal:
+    Testing should also be done in the middle layer where api sits
+    Testing should be done in the Backend layer where sql server database is sitting
+    Testing the back jobs
+
+    To give the faster feedback how the application is behaving/working - so people are depending upon each and every layer
+    and they have the quality check gate on every layer of your software project.
+
+    so this is where our backend automation testing comes into picture.
+
+    NOTE:: Any type of testing which is not part of our browser automation, comes and fall under this backend automation
+    This is where SDET roles comes into picture
+
+    As a python SDET you will not be responsible only for your frontend automation with selenium you should also have knowledge on
+    testing various layers of your entire project.
+
+    So, you should be able to perform API Testing,
+    you should be able to retrieve the data from the data bases with python code,
+    you should also be connect to your servers by establishing SSH connection and execute Back jobs
+
+    Responsibilities:
+
+        As an SDET - you will be responsible to perform any kind of automation E2E full stack project.
+
+
+
